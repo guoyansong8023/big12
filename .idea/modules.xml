@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/big12.iml" filepath="$PROJECT_DIR$/big12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myavro/myavro.iml" filepath="$PROJECT_DIR$/myavro/myavro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myflume/myflume.iml" filepath="$PROJECT_DIR$/myflume/myflume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhadoop/myhadoop.iml" filepath="$PROJECT_DIR$/myhadoop/myhadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhbase/myhbase.iml" filepath="$PROJECT_DIR$/myhbase/myhbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhive/myhive.iml" filepath="$PROJECT_DIR$/myhive/myhive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjava/myjava.iml" filepath="$PROJECT_DIR$/myjava/myjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mykafka/mykafka.iml" filepath="$PROJECT_DIR$/mykafka/mykafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myphoenix/myphoenix.iml" filepath="$PROJECT_DIR$/myphoenix/myphoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspring/myspring.iml" filepath="$PROJECT_DIR$/myspring/myspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myzk/myzk.iml" filepath="$PROJECT_DIR$/myzk/myzk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sm/sm.iml" filepath="$PROJECT_DIR$/sm/sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sm/sm.iml" filepath="$PROJECT_DIR$/sm/sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/springmvc/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>
